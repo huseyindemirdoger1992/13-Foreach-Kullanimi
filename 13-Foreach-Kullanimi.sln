@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-Foreach-Kullanimi", "13-Foreach-Kullanimi\13-Foreach-Kullanimi.csproj", "{35D13114-40DE-4B2B-90B5-33FFF5E1A768}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35D13114-40DE-4B2B-90B5-33FFF5E1A768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D13114-40DE-4B2B-90B5-33FFF5E1A768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D13114-40DE-4B2B-90B5-33FFF5E1A768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D13114-40DE-4B2B-90B5-33FFF5E1A768}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F8A2A16-9A06-4C86-A384-0A9868DFBDD0}
+	EndGlobalSection
+EndGlobal
